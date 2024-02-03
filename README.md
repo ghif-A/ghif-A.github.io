@@ -1,9 +1,9 @@
 # Machine Learning Engineer
 
-### Education
+## Education
 - Bachelor's degree in Aerospace Engineering @ Bandung Institute of Technology (2024)
 
-### Experience
+## Experience
 **Machine Learning Cohort @ Bangkit Academy (Feb 2023 - Jul 2023)**
 - Bangkit is a Google-led learning program with the support of GoTo, Traveloka, and DeepTech
 Foundation, in partnership with Kampus Merdeka. The program offers a learning space for Indonesian
@@ -25,7 +25,7 @@ and aircraft instrumentation, avionics, and electronics.
 - In this internship, I am doing a review on aircraft flight phase identification in Lua program, then
 convert and improve it into Python language.
 
-### Projects
+## Projects
 - [2021 Indonesian Life Expectancy](https://github.com/ghif-A/indonesian-life-expectancy-2021-w-regularization)
 
 - [Aerospace Data Science Course Final Project](https://github.com/ghif-A/aero-itb-tasks/blob/main/statistics_project_aero_itb.ipynb)
